@@ -42,6 +42,8 @@ Referentes mencionados en clase
 
 - Gogbotic
 
+---
+
 ### Post clase
 
 ¿Cómo tener un buen proceso en github?
