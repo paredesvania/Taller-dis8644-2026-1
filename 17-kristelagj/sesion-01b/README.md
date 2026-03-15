@@ -2,7 +2,7 @@
 
 ## clase 130326
 
-- Suzanne ciani hizo el pop de un comercial de cocacola
+- Suzanne ciani hizo el pop de un comercial de coca cola
 
 - WolframAlpha: calculadora
 
@@ -57,5 +57,10 @@ Corriente (i) = voltaje (V)/Resitencia ( R )   LEY DE OHM
 - **Resistencia:** limite de velocidad
 
 ## Post clase
+
+Mi hermana me enseño a como ingresar una imagen en github la cual probé en la primera clase, además de aprender sobre cómo jerarquizar de manera no visual como se haría editorialmente. 
+
+Cómo colocar una imagen: en el repositorio dirigirse a “add file” y apretar upload files, subir tu archivo deseado. Después de ello ![colocar el nombre de la foto ](y despues lo repites aqui nuevamente con el tipo de archivo.jpg)
+
 
 
