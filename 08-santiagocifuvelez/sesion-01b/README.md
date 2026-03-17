@@ -13,7 +13,7 @@ Este registro, va a ser dividirlo en 3 partes:
 
 Ahora que ya tenemos presente la estructura…, veamos el contenido.
 
-1.	Github como herramienta de documentación de nuestro proceso de aprendizaje.
+## 1.	Github como herramienta de documentación de nuestro proceso de aprendizaje.
 
 Para mi sorpresa, me he vuelto a encontrar con Github…, antes la había usado en mi colegio, pero no nos llevamos muy bien en ese momento. Ahora debo aprender de nuevo lo conocido, pero desde una nueva perspectiva… ¿Más madura?
 
@@ -22,3 +22,5 @@ La clase comenzó con una charla muy cálida, teniendo como tema principal, un d
 Agregando a lo anterior, los docentes y unxs compañerxs nos enseñaron unos cuantos truquitos de codificación para ordenar nuestros apuntes en Github. Y de esa manera, finalizo la primera parte de la clase antes de salir a receso. 
 
 <img src="https://github.com/user-attachments/assets/727bb9fd-b088-44cd-a039-9902a59999ad" width="250">
+<img src="https://github.com/user-attachments/assets/19f09e5f-f706-414b-b342-c5e9729934dc" width="250">
+
