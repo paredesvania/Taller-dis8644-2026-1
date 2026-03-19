@@ -48,8 +48,8 @@ Debido a su pasión por querer crear un mundo en donde la información pudiese s
 
 **Bibliografía**
 
-Vernal, M. (2018, Enero 11). _Aaron Swartz: La historia de uno de los grandes genios de nuestros tiempos_ <https://applauss.com/2018/01/11/aaron-swartz-historia/>
+Vernal, M. (2018, Enero 11). _Aaron Swartz: La historia de uno de los grandes genios de nuestros tiempos._ <https://applauss.com/2018/01/11/aaron-swartz-historia/>
 
-Swartz, A. (2008, Julio). _Manifiesto por la Guerrilla del Acceso Abierto (GOA)_ <https://universoabierto.org/2020/03/03/manifiesto-por-la-guerrilla-del-acceso-abierto-goa/>
+Swartz, A. (2008, Julio). _Manifiesto por la Guerrilla del Acceso Abierto (GOA)._ <https://universoabierto.org/2020/03/03/manifiesto-por-la-guerrilla-del-acceso-abierto-goa/>
 
-Amadeu da Silvera, S. (2013, Junio). _Aaron Swartz y las luchas por la libertad del conocimiento_ <https://sur.conectas.org/es/aaron-swartz-y-las-luchas-por-la-libertad-del-conocimiento/>
+Amadeu da Silvera, S. (2013, Junio). _Aaron Swartz y las luchas por la libertad del conocimiento._ <https://sur.conectas.org/es/aaron-swartz-y-las-luchas-por-la-libertad-del-conocimiento/>
