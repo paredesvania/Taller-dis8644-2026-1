@@ -30,8 +30,25 @@ Aaron Swartz fue un visionario que construyó las herramientas básicas de la co
 
 Fuentes y Referencias 
 
-+https://www.youtube.com/watch?v=M85UvH0TRPc 
++ https://www.youtube.com/watch?v=M85UvH0TRPc 
 +  ​http://www.aaronsw.com/weblog
 + ​Creative Commons: Sitio oficial de las licencias que él ayudó a programar
 + ​Demand Progress: La organización de activismo que Aaron fundó para luchar contra la censura en internet.
+---
+## Apuntes
+Hoy en clases nos entrgaron varios materiales para trabajar en circuitos, aqui un listado de los materiales y su funcion:
 
++ Cable Dupont: Son cables flexibles con conectores en los extremos que sirven para unir componentes en una placa de pruebas sin necesidad de soldar. Son el "pegamento" que comunica todas las piezas de tu proyecto.
++ Resistencia de carbon: Es un componente que limita el paso de la corriente eléctrica. Sirve para proteger otros materiales (como los LED) para que no se quemen al recibir demasiada energía.
++ parlante: ​Es un transductor que convierte señales eléctricas en ondas sonoras. Sirve para que tu proyecto emita sonidos, tonos de alerta o música simple.
++ Luz led: Es un diodo que emite luz cuando la electricidad pasa a través de él. Sirve como indicador visual (encendido/apagado) o para iluminación básica, consumiendo muy poca energía.
++ Protoboard: Es una placa con muchos orificios interconectados internamente. Sirve para armar y probar circuitos de forma temporal: insertas los componentes y cables DuPont en ella sin usar soldadura.
++ Chip: Es una pastilla de silicio que contiene miles de componentes diminutos en su interior. Sirve para realizar funciones complejas (como procesar datos o amplificar sonido) en un espacio muy reducido.
++ Potenciómetro: ​Es una resistencia variable. Sirve para que tú puedas controlar manualmente la intensidad de algo, como subir el volumen de un parlante o variar el brillo de una luz LED al girar su perilla.
++ Pila: ​Es un dispositivo que convierte energía química en eléctrica. Sirve como la fuente de energía (el "alimento") para que tu circuito pueda funcionar sin estar conectado a un enchufe.
+  
+![imagen_componentes](./imagenes/Apuntes_2.jpg)
+
+### apuntes escritos en clases
+
+![imagen_apuntes](./imagenes/apuntes_clases_1b.jpg)
