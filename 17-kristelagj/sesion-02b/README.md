@@ -14,7 +14,8 @@ Referentes:
 **Bob Widlar:** Wilarización es cuando algo te traiciona y lo rompes para que nunca más lo haga
 
 **¿Qué es 8 bits?:** es una unidad de información digital compuesta por ocho dígitos binarios (ceros y unos), equivalente a 1 byte
-
+![bit](imagenes/bit_depth.jpg)
+![mario](imagenes/super_mario.jpg)
 
 Ocupar tinkercad si no me funciona el sistema original
 
@@ -57,6 +58,10 @@ Comencé a realizar de nuevo el ejercicio número 3, ahora logré encender la D1
 Compre unas bolsas para ordenar por piezas entregadas, ya que así tengo un orden y sé que tengo de cada cosa (no tendré que comenzar la búsqueda del tesoro)
 
 Por otro lado, se reconoce cada elemento que se nos entregó de manera visual, pero nombres y que hacen, no muy bien, entonces me dedique a revisar los apuntes de mis compañeros para poder encontrar nuevas cosas y hacer una guía de que es cada cosa agregando mis apuntes (quiero agregar datos que quizás yo no tengo o encontré y que me ayuden a entender)Quiero encontrar una manera de hacer algún manual que yo entienda de lo que hemos visto y de cada pieza de este puzzle. 
+
+------------------------------------
+
+### Glosario
 
 **Corriente eléctrica:** es el flujo de cargas eléctricas (normalmente electrones) que se mueven a través de un material.
 
@@ -139,7 +144,18 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 11. **circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio.
 
+-----------------
+
+**Type case:** Investigando sobre otro tema de interés, encontré una joya (para mi) que mezcla el rubro en el cual me desenvuelvo día a día y en que me estoy adentrando ahora que se llama “type case” realizado por Martin Bircher, dicho en sus propias palabras es una pantalla de baja resolución con 125 píxeles rectangulares de diferentes tamaños. Estos se forman a partir de la luz reflejada de LED controlados digitalmente, integrados en cada sección de una caja de tipos de imprenta europea. ¡esto es increíble!, cada uno tiene la misma cantidad de luz, pero gracias a que cada espacio tiene distintos tamaños, crea distinta cantidad de luz y sombra. Por ejemplo, la cavidad de la letra E es menor a la de la letra M ya que esta se ocupa menos que cualquier vocal. Eso si, no logro distinguir si se ocupó una caja para altas (mayúsculas) o bajas (minúsculas). 
+
+![type](imagenes/type_case.jpg)
+
 ### Preguntas
 
-
+1. Aún no comprendo y como interpretar los nodos en el esquematico.
+2. Necesito saber el porque de porque se deben colocar las cosas de esa manera, osea porque debo colocar un cable de cierta forma y no de otra, por ejemplo.
+3. Lugares en youtube donde me expliquen la materia que estamos viendo y/o páginas que sean en español
+4. De que forma uno se puede aprender todos los nombres ¿tienen algún sistema/tabla/etc? Aún me cuesta
+5. El ejercicio de la clase pasada no lo entendí  (revisar mi cuaderno)
+6. 
 

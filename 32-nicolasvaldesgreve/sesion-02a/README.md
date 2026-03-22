@@ -10,7 +10,7 @@
 
 ---
 
-## Apuntes clases
+## Apuntes clase 17/03
 
 Se nos entregaron los materiales en una caja, la cual traía dos potenciómetros B100k, cables Dupont, una protoboard, un parlante, cuatro chips, un broche de batería, 10 resistencias de 220, 10 resistencias de 1000, y una batería de 9v.
 
