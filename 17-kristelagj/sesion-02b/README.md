@@ -15,6 +15,7 @@ Referentes:
 
 **¿Qué es 8 bits?:** es una unidad de información digital compuesta por ocho dígitos binarios (ceros y unos), equivalente a 1 byte
 
+
 Ocupar tinkercad si no me funciona el sistema original
 
 ### clase
