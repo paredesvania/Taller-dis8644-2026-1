@@ -131,3 +131,18 @@ Poner el Fotorresistor con 2 capasitores de 1 uf
 ![p8_2capasitor2uf](https://github.com/paulafuentesm/dis8644-2026-1/blob/7b7d90a6c35f38d9bd49e97c4529fb2417dfb815/13-paulafuentesm/sesion-02b/imagenes/pruebas/p8_fotorresistor2uf.jpg)
 
 Observación: Para probar si la luz se apagaba, cambie la ressiencia de la prueba 06. La luz va tan rapido que no se ve parpadear, pero al tapar el fotorresistor, la luz va mas lento, por lo que parpadea mas lento. Logrando que efectivamente la luz siempre parpadea pero no siempre es perceptible a simple vista. 
+
+----
+
+Preguntas:
+
+1. No entinendo muy bien el sistema de el ship garrapata y porque ciertos cables ban conectados a sierta pata
+2. Que funcion cumple?
+3. No puedo hacer esto mismo sin la garrapata? hacer que el sistema parade sin esto 
+4. Por esto mismo, porque el chipp es 555 y no cualquier otro numero?
+5. Que hace que parpade la lus y no se quede quieta como en los circuitos anteriores?
+6. Por que paso el de conectar 2 led en la misma fila solo se prendio 1na?
+7. Hay alguna forma correcta de ordenar los cables y no confundirse al conectar?
+8. Los cables se pueden hechar a perder? 
+9. Aun no entiendo muy bien porque no puedo hacer sync si estoy ahead? no se supone que son ramas independientes?
+10. Por que no puedo usar mayusculas en los archivos?
