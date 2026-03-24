@@ -10,6 +10,8 @@ para hacer las conexiones usamos cables caimán / alligator clip.
 
 vimos los efectos de cambiar una resistencia y un capacitor en el circuito, y cómo afecta la frecuencia de oscilación del circuito.
 
+![esquemático del circuito de hoy](./imagenes/sesion-03a-ej-01-sch.png)
+
 ## encargo-03a
 
 1. expandir el circuito usado, agregando más interruptores para crear el circuito toy organ disponible en <https://www.555-timer-circuits.com/toy-organ.html>. otra versión del circuito se incluye a continuación, diagramada por misaa hoy. documentar todos los aciertos y errores en la bitácora.
