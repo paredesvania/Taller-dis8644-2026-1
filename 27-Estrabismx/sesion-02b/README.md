@@ -27,16 +27,60 @@ Si la resistencia era el **freno**, el LED es el **indicador** o la **estrella**
 
 >Su lado positivo se llama ***anodo*** y su negativo ***catodo***
 
-[Insertar imagen sobre polaridad led]
-![Polaridad Diodo](./imagenes/polaridad-diodo.jpg)
+![Polaridad Diodo](./imagenes/polaridad-diodo.webp)
 
-[Estamos trabajando para usted xd / termino esto luego profe, deme chance xd]
+<br>
 
 ### - Batería ###
+
+***Corazón energético***
+
+Es un depósito que almacena electricidad mediante reacciones químicas, lista para *empujar* la corriente a través de los cables en cuanto cierras el circuito. Su potencia se mide en Voltios ($V$), que determinan cuánta fuerza tiene ese flujo y su duración en Amperios-hora ($Ah$). A diferencia de una resistencia, la batería tiene una dirección fija, es decir posee polaridad.
+
+<br>
+
 ### - Cable ###
+
+***Tuberías de electricidad***
+
+Está compuesto por un alma de metal (normalmente cobre) que deja pasar los electrones con total libertad, envuelto en una capa de plástico que actúa como *muro* para que la electricidad no viaje por donde no debe. En electrónica, se usa para unir componentes y sin ellos la energía no tiene por dónde viajar.
+
+<br>
+
 ### - Protoboard ###
+
+***Lienzo donde se trabaja***
+
+Simplemente se insertan las patas de los componentes (como LEDs o resistencias) y los cables en los orificios para conectarlos. Los bordes suelen tener líneas largas (buses) para la energía, mientras que el centro tiene filas divididas para separar los componentes. Es la herramienta perfecta para experimentar.
+
+[Imagen1]
+[Imagen2]
+[Imagen3]
+
+<br>
+
 ### - Capacitor ###
-#### - Capacitor Electrolitico ####
+
+***Batería pequeñita***
+
+Se le puede decir que es un amortiguador. Si la energía de la batería parpadea, el capacitor entrega lo que tiene guardado para que el flujo no se corte. Se mide en Faradios ($F$), aunque lo normal es ver microfaradios ($\mu F$) porque son piezas pequeñas. En electrónica, son esenciales para filtrar ruido y estabilizar voltajes. 
+
+> Cada capacitor tiene un límite (ej. $16V$ o $25V$). Si le metes más de lo que aguanta, puede inflarse o incluso explotar.
+
+#### Ceramico ####
+
+Posee un sistema de codigo en su cara frontal
+
+[Imagen]
+
+[Imagen2]
+
+#### Electrolítico ####
+
+> Posee polaridad, la franja con el signo menos ($-$) indica la pata negativa.
+
+
+
 ### - Potenciometro ###
 ### - Chip 555 ###
 
