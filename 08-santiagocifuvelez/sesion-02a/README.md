@@ -33,6 +33,8 @@ Por ejemplo, un LED sin resistencia se puede dañar porque recibe demasiada corr
 2. Controlar voltaje
 Permiten “repartir” el voltaje en un circuito (como en el ejemplo que nos hizo el profe; es como si bajaras la presión del agua en una manguera).
 
+*Súper importante tener esto en cuenta:*
+
 ![OHM](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-02a/imagenes/img3.jpg)
 
 ## Entrega de ejercicios
