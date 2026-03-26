@@ -8,6 +8,13 @@
 
 **LCD:** hacen todo en vivo, en cambio sokio quiere hacerlo en vivo pero que algo lo este haciendo constantemente. 
 
+**tutupá:** proyecto elaborado por misaa que percute con elementos que podemos tener a la mano. Este se mejoró para sokio
+
+- Strangetrigger
+- Virtual VCT
+- Midi
+
+
 ### clase
 
 - Primera parte: Aaron
