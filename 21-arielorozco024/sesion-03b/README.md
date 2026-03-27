@@ -24,3 +24,5 @@ en electrónica las lineas son puntos
 # bistable mode #
 
 
+
+
