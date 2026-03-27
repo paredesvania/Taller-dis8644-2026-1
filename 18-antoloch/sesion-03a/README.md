@@ -15,20 +15,21 @@ Ese ciclo de carga y descarga define el tiempo de cada oscilación.
 el condensador “suaviza” o “filtra”: corta lo constante y deja pasar el cambio.  
 En el parlante, lo que suena es justamente ese cambio, el instante en que el condensador obliga al circuito a saltar de un estado al otro.
 
+![apuntes03a](./imagenes/apuntes03a.jpeg)
+![apuntes03a2](./imagenes/apuntes03a2.jpeg)
 ## Encargo: Circuito y expansión
 En clase nos pasaron **interruptores switch**, y con ellos pudimos experimentar cómo controlar el flujo de corriente para encender o apagar cargas.  
 La expansión consiste en poner varios interruptores en paralelo, cada uno con una resistencia distinta.  
 Cada botón que se aprieta cambia la frecuencia y por lo tanto el tono.  
 Es como un teclado full casero: cada tecla es una nota.
-
-
-
+![encargo01](./imagenes/encargo01.png)
+El encargo lo hicimos con algunos compañeros después de que terminara la clase, ya que nos intrigaba mucho mucho hacerlo. 
+![encargo03a](./imagenes/encargo03a.jpeg) 
+![encargo03a2](./imagenes/encargo03a2.jpeg)
 
 ## Referentes
 - **David Tudor**: pianista y compositor experimental, clave en la música de vanguardia.  
 - **John Cage**: el silencio como parte del arte, la música aleatoria, el uso no estándar de instrumentos.  
-
-Todo esto conecta con la oscilación del 555: el valor está en el cambio, en el silencio entre pulsos, en lo inesperado.
 
 ## Apuntes del documental *Variaciones espectrales*
 - Inspirado en la vida y obra de **José Vicente Asuar**, pionero chileno de la música electroacústica.  
