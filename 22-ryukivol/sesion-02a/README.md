@@ -31,11 +31,13 @@
 ![imagen1](/imagen/circuito-6leds)
 ![imagen1](/imagen/circuito-6leds-2)
 
+![ejercicio-2 2](https://github.com/user-attachments/assets/11a8beec-167f-4b84-8d5e-d2754e530689)
+
  ## **ENCARGOOOO** 
 
 - ### **Ejercicio 1** 
 
-![Circuito 1](./imagenes/lqxtlc1.png)
+![Circuito 1](./imagenes/lqxtlc1.png) 
 
 | loquitoportilocoloco  | D1    | D2    | D3    | D4    |
 | ---                   | ---   | ---   | ---   | ---   |
