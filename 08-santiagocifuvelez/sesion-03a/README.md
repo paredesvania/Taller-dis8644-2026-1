@@ -27,6 +27,8 @@ Pues este funciona con una frecuencia de oscilación:
 
 ![frecuencia,oscilación 555](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img2.jpg)
 
+El circuito funciona generando una señal que cambia repetidamente entre 0V y 9V, lo que se conoce como una oscilación. Esta oscilación es producida por el NE555 timer, que utiliza la energía de la pila para cargar y descargar un capacitor de forma continua. Como resultado, la salida del circuito “enciende y apaga” constantemente, creando una señal periódica cuya rapidez está determinada por la frecuencia de oscilación.
+
 ## 2. Esquematización del parlante y de los botones.
 
 
