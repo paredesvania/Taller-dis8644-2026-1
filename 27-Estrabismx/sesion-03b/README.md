@@ -69,7 +69,7 @@ La Atari Punk Console (APC) es un sintetizador de audio DIY (***Do it yourself**
 
 Usa un modo astable para crear pulsos y uno monoestable para controlar su duración. Con dos perillas controlas el tono y el ritmo, creando ruidos electrónicos, chirridos y efectos *lo-fi* como dirían los lolos
 
-
+***COLOCAR IMAGEN Y ESQUEMATICO DEL ATARI PUNK, HABLAR SOBRE https://www.555-timer-circuits.com/ , LUGARES DE ELECTRONICA, CHIPS QUEMADOS Y SUS REFLEXIONES, BIBLIOGRAFÍA Y SUBIR LA SIMBOLOIGIA*** 
 
 ---
 
