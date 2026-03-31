@@ -2,7 +2,9 @@
 
 ### Contenidos clase 
 - repaso 555
-- diferentes unidades 
+- diferentes unidades
+- pagina falstad https://www.falstad.com/circuit/
+- patas o pins 555 
 
 ### unidades 
 - 0,00,000,000,001 Pico 
@@ -15,4 +17,9 @@
 - 1.000.000.000 Giga
 - 1.000.000.000.000 Tera
 
-- 
+### falstad 
+- click derecho para agregar componentes
+- escape para volver
+
+### Pins 555 
+
