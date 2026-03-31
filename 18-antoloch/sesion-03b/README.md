@@ -61,8 +61,6 @@ La **resistencia equivalente** es el valor único que reemplaza varias resistenc
 
 ---
 
-##  Conclusión
-En esta clase **realizamos circuitos** con resistencias equivalentes, el 555 en modo monoestable y el Atari Punk Console.  
-Aunque hubo errores de conexión y un chip quemado, logramos corregirlos y experimentar con el funcionamiento real de ambos diseños.
+
 
 
