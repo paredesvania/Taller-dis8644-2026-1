@@ -8,7 +8,7 @@
 forma de simplificar un circuito electrico.
 remplaza varias resistencias por una sola
 
-![apuntes-clase03-27-03](./imagenes/apuntes-clase03-27-03)
+![apuntes](./imagenes/apuntes-clase-27-03.jpeg)
 
 req=R1 x R2/ R1 + R2
 
