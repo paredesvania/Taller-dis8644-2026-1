@@ -78,22 +78,21 @@ voltaje 9V
 John Cage (1912–1992) fue un compositor, teórico musical y artista visual estadounidense. Su **exploración del azar, el silencio y el sonido cotidiano transformó las nociones tradicionales de música y composición, influyendo profundamente en generaciones posteriores de músicos y artistas conceptuales**.
 Influenciado por el budismo zen y la filosofía oriental, Cage concebía la música como una forma de atención plena al entorno sonoro. Su célebre frase “no existe el silencio” resume su idea de que cualquier sonido puede ser música. La obra 4′33″, en la que el intérprete no ejecuta notas, ejemplifica este principio y se convirtió en un ícono del arte conceptual del siglo XX.
 
-fuentes: John Cage Trust
-<https://johncage.org/> 
-John Cage - Percussive Arts Society
-<https://pas.org/john-cage/> 
+fuentes: [John Cage Trust](https://johncage.org/), [John Cage - Percussive Arts Society](https://pas.org/john-cage/) 
 
 **John Cage 4’33** <https://www.youtube.com/watch?v=TOgrWX5_dS4>
 *”Everything we do is music”*
 
-**Aquí un comentario que rescaté del video (@Warlesc):** Se dice comúnmente que John Cage introduce la noción de silencio, pero en realidad este silencio en la interpretación, fomenta la escucha atenta por parte de los espectadores, de los micro acontecimientos sonoros que se producen en la sala durante 4'33'' que dura el concierto. Cage es el introductor de la escucha activa, influenciado por las enseñanzas de las filosofías orientales propuestas por el maestro Zen D.T. Suzuki. Su silencio amplía la percepción sonora y **cambia el foco de atención de la música occidental hacia los sonidos no intencionados**.
+**Comentario que rescaté del video (@Warlesc):**
+> Se dice comúnmente que John Cage introduce la noción de silencio, pero en realidad este silencio en la interpretación, fomenta la escucha atenta por parte de los espectadores, de los micro acontecimientos sonoros que se producen en la sala durante 4'33'' que dura el concierto. Cage es el introductor de la escucha activa, influenciado por las enseñanzas de las filosofías orientales propuestas por el maestro Zen D.T. Suzuki. Su silencio amplía la percepción sonora y **cambia el foco de atención de la música occidental hacia los sonidos no intencionados**.
 
-***Experimento de silencio***
+***Experimento del silencio***
 Este experimento (realizado en 1951) consistió en entrar a una cámara anecoica en la Universidad de Harvard para buscar el silencio absoluto. Al escuchar su sistema nervioso (zumbido agudo) y sanguíneo (sonido grave), concluyó que el silencio no existe. Esta revelación inspiró su obra 4′33″ (1952), enfocada en los sonidos ambientales.
 
 incluso en una sala aislante de ruido y él aguantando la respiración, no logró alcanzar el silencio absoluto. Concluyendo que el silencio no existe, sino que es un constructo.
 
 fuente: Irina Mishina
+
 <https://irinamishina.com/es/2013/09/23/como-john-cage-descubri-que-el-silencio-no-existe/#:~:text=En%201951%20John%20Cage%2C%20uno,sonidos%20que%20nos%20pueden%20rodear.> 
 
 
@@ -101,7 +100,7 @@ fuente: Irina Mishina
 ## David Tudor:
 David Tudor (1926–1996) fue un pianista y compositor estadounidense, ampliamente reconocido por su papel pionero en la interpretación de música experimental y en el desarrollo de la música electrónica en vivo. Su colaboración con **John Cage** (frends bffs) definió una era en la música contemporánea del siglo XX. A partir de los años sesenta, Tudor dejó de ser principalmente intérprete para dedicarse a la creación de sistemas sonoros y circuitos electrónicos que funcionaban como instrumentos en sí mismos. Ha sido posicionado como precursor de la performance electrónica en vivo y del uso escultórico del sonido.
 
-fuente: su página de wikipedia <https://es.wikipedia.org/wiki/David_Tudor>
+fuente: su [página de wikipedia]<https://es.wikipedia.org/wiki/David_Tudor>
 
 Steim Slaapkamer Muziek (16/06/1994)
 <https://www.youtube.com/watch?v=Fo30MgBRQO0>
@@ -113,16 +112,17 @@ Matt (no anoté el apellido...) oscilador victoriano (macumbista)
 ## Funcionamiento sintetizador:
 
 **Moog:**
-r - atenua
-c - filtra
+
++ r - atenua
++ c - filtra
 
 **VCC:** voltaje de alimentación directa
 
 
 ## Interruptor:
 
-hago algo -> se prende
-no hago nada -> se apaga
++ hago algo -> se prende
++ no hago nada -> se apaga
 
 Puede ser momentáneo o perdurar en el tiempo.
 
