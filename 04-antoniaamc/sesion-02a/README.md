@@ -79,7 +79,8 @@ https://equipboard.com/items/arp-2800-odyssey-rev1
 
 ![autobahn](./imagenes/arp-2800-odyssey-rev1-xl.jpg)
 
-Equipo de estudio utilizado por Kraftwerk en Autobahn
+
+**Equipo de estudio utilizado por Kraftwerk en Autobahn**
 
 ### Caja de ritmos
 
@@ -94,7 +95,7 @@ Equipboard <https://equipboard.com/items/vox-percussion-king-drum-machine-1967>
 
 ![autobahn](./imagenes/korg-arp-odyssey-xl.jpg)
 
-Equipboard <https://equipboard.com/items/korg-arp-odyssey >
+Equipboard <https://equipboard.com/items/korg-arp-odyssey>
 
 
 Vocoder, un analizador y sintetizador de voz que inicialmente fue desarrollado en la década de 1930 como un codificador de voz para telecomunicaciones. El Vocoder característico de Kraftwerk fue un dispositivo personalizado derivado de tecnología de voz, frecuentemente asociado con el sintetizador/vocoder de la marca alemana Sennheiser VSM 201.
