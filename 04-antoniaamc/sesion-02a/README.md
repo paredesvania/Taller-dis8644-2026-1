@@ -1,5 +1,27 @@
 # sesion-02a
 
+## Ejercicio
+Primer circuito con luces led. 
+
+**Esquema:**
+
+![apuntes](./sesion-02-a-apuntes)
+
+**Ejercicio aplicado:**
+
+Mi protoboard:
+
+![circuito](./imagenes/sesion-02-a-circuito1)
+![circuito](./imagenes/sesion-02-a-circuito2)
+![circuito](./imagenes/sesion-02-a-circuito3)
+![circuito](./imagenes/sesion-02-a-circuito4)
+
+El de mi compañera Luisa: 
+
+![circuito](./imagenes/sesion-02-a-circuito5)
+
+nota: que divertido me emocioné ;)
+
 ## Engargo 
 
 # Autobahn
