@@ -216,5 +216,7 @@ desde J1 a J20 siguen conectados previamente hasta CD con L y R.
 
 (HACER DIBUJOS)
 
+---------
 
+- Funcionamiento
 
