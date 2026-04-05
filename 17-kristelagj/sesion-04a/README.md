@@ -17,7 +17,17 @@ A Partir de las sugerencias, vimos algunas cosas un poco más lento como el circ
 
 Misaa nos comentó que el ejercicio que vimos la semana pasada era poco académico porque las probabilidades de que fallara eran muy altas, entonces ahora hicimos una variante de esta y nos funcionó (atari punk console)
 
-(hacer tabla de notación científica de resistencias y condensadores)
+| Prefijo | Símbolo | Potencia de 10 | Ejemplo en resistencias (Ω) | Ejemplo en condensadores (F) |
+| ------- | ------- | -------------- | --------------------------- | ---------------------------- |
+| Tera    | T       | (10^{12})      | 1 TΩ = 1 000 000 000 000 Ω  | 1 TF                         |
+| Giga    | G       | (10^{9})       | 1 GΩ = 1 000 000 000 Ω      | 1 GF                         |
+| Mega    | M       | (10^{6})       | 1 MΩ = 1 000 000 Ω          | 1 MF                         |
+| kilo    | k       | (10^{3})       | 1 kΩ = 1000 Ω               | 1 kF                         |
+| unidad  | —       | (10^{0})       | 1 Ω                         | 1 F                          |
+| mili    | m       | (10^{-3})      | 0.001 Ω                     | 1 mF = 0.001 F               |
+| micro   | µ       | (10^{-6})      | 0.000001 Ω                  | 1 µF = 0.000001 F            |
+| nano    | n       | (10^{-9})      | 0.000000001 Ω               | 1 nF = 0.000000001 F         |
+| pico    | p       | (10^{-12})     | 0.000000000001 Ω            | 1 pF = 0.000000000001 F      |
 
 Para los condensadores no polarizados el último dígito es equivalente a 0; Por ejemplo, 104 equivale a 10.000 pF
 
