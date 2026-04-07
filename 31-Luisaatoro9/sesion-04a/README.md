@@ -142,3 +142,5 @@ En ese suelo, los capacitores negros parecen pequeños silos de agua donde la el
 
 Al final, el parlante es como el tambor de un chamán que empieza a vibrar cuando la electricidad lo golpea. Los cables verdes y amarillos son las venas que llevan la sangre eléctrica hasta ese tambor de metal y cartón. Cuando el imán de atrás empuja el aire, esos susurros que la antena cazó al principio por fin escapan de la radio convertidos en música, saliendo por los hoyitos de la carcasa como si fueran el último aliento de una máquina que nunca duerme.
 <img src="https://github.com/user-attachments/assets/6ea51125-a183-45d1-ade2-92912f5274e0" width="800%"> 
+
+Nota Personal: Esta radio es una verdadera guerrera. Acompaño a mi abuela en los terremotos más fuertes aquí en Chile, y a pesar de todos los golpes que tiene, sigue funcionando impecable. Comparada con los equipos actuales, que son mucho más sofisticados y compactos, esta radio tiene una electrónica más robusta y simple que la hace legendaria. Esta joya está hecha para durar y no morir nunca, sin importar cuántas veces se caiga.
