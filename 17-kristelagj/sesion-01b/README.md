@@ -26,7 +26,7 @@
 
 - Know-what es historia. Saber el cómo pasó y el know-how es saber cómo se hicieron las cosas.
 
-![leydeohm](./imagenes/ley_de_ohm.jpeg)
+![leydeohm](./imagenes/ley-de-ohm.jpeg)
 
 - **Caudal:** corriente de agua que pasa por un lugar
 
@@ -58,7 +58,7 @@ Corriente es cuánta energía pasa. Entre más corriente, más electrones pasan.
 
 ![elementos](./imagenes/elementos.jpeg)
 
-![ejemplo](./imagenes/misaa_ejemplo.jpeg)
+![ejemplo](./imagenes/misaa-ejemplo.jpeg)
 
 ![final](./imagenes/final.jpeg)
 
