@@ -62,7 +62,7 @@
         - ![astable parlante mal 1](./imagenes/parlante-1-fail1.jpg) ![astable parlante mal 2](./imagenes/parlante-1-fail2.jpg)
           - no me funcionó
             - ![cara triste](./imagenes/sad.png)
-        - lo intenté denuevo con más orden en los colores de cable (gracias aaron)
+        - lo intenté denuevo con más orden en los colores de cable (gracias Aaron)
           - ![astable parlante mal 3](./imagenes/parlante-2-fail1.jpg)
             - no me funcionó
               - ![cara triste](./imagenes/sad.png)
