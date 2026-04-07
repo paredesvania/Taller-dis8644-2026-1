@@ -40,6 +40,8 @@ en este ejercicio unimos un circuito astable con un monoestable
 
 al inicio hicimos cada uno por separado, añadiendo parlante y con distintos resultados
 
+![foto pizarra circuito con parlante](./imagenes/astable-monoestable-con-parlante.jpg)
+
 https://github.com/user-attachments/assets/86e083c0-6bc7-4727-9de8-ffead0e39b0b
 
 https://github.com/user-attachments/assets/5b5cb009-9445-4e97-b4d4-8eb0e591214b
