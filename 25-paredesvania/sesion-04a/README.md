@@ -4,25 +4,36 @@ Izquierda afinaciones <- -> Derecha salidas
 
 ![555](./imagenes/chiprepaso.jpg)
 
-* 0,000.000.000.001 pico
-* 0,000.000.001 nano           
-* 0,000.001 M (micro)
-* 0,001 mili
-  
-} (C)ondensador
-  
-* 1 -> Unidad
-* 1.000 -> kilo (ohm)
-* 1.000.000 -> Mega            
-* 1.000.000.000 -> Giga
-* 1.000.000.000.000 -> Tera
+Aquí tienes la info ordenada en tabla clara para tu README:
 
-} (R)esistencia
+---
+
+## Escalas y unidades electrónicas
+
+### Prefijos de baja magnitud (usados en capacitores)
+
+| Valor decimal     | Prefijo | Símbolo | Nombre |
+| ----------------- | ------- | ------- | ------ |
+| 0,000.000.000.001 | pico    | p       | Pico   |
+| 0,000.000.001     | nano    | n       | Nano   |
+| 0,000.001         | micro   | µ       | Micro  |
+| 0,001             | mili    | m       | Mili   |
+
+### Prefijos de alta magnitud (usados en resistencias)
+
+| Valor numérico    | Prefijo | Símbolo | Nombre     |
+| ----------------- | ------- | ------- | ---------- |
+| 1                 | unidad  | —       | Unidad     |
+| 1.000             | kilo    | k       | Kilo (ohm) |
+| 1.000.000         | mega    | M       | Mega       |
+| 1.000.000.000     | giga    | G       | Giga       |
+| 1.000.000.000.000 | tera    | T       | Tera       |
+
 10.000 picoF -> 100 nanoF -> 0,1 microF
 
 (F)araday: según gemini: Representa la cantidad de electricidad transportada por 1 mol de electrones, derivada de la carga de un solo electrón multiplicada por el número de Avogadro.
 
-## Falstad
+### Falstad
 <https://www.falstad.com/circuit/>
 
 ![555](./imagenes/555pinout.webp)
@@ -79,7 +90,7 @@ graph TD
     LED --> GND
 ```
 
-## Ejercicio en clase
+### Ejercicio en clase
 
 ![555](./imagenes/mono-astable.heic)
 ![555](./imagenes/foto-resistor.heic)
@@ -94,7 +105,7 @@ Luego conectamos un potenciometro para controlar el volumen:
 
 Hola Aarón soy vania desde mi visual studio code slay.
 
-## encargo-04a
+### encargo-04a
 
 1. destripar un dispositvo electrónico, documentar con texto e imagen el proceso, distinguir los elementos de la PCB que hemos estudiado como R y C y chips.
 2. documentar las conexiones entre la PCB y los componentes en la carcasa.
