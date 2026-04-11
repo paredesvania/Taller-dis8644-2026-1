@@ -3,7 +3,7 @@
 ## 1. Desarmar y proceso ##
 **Dispositivo: Mouse con cable (tipo óptico)**
 
-![mouse1](./imagenes/mouse1.jpg)
+![mouse](./imagenes/mouse.jpg)
 
 **Paso 1: Apertura**
 Se retira el tornillo ubicado en la parte inferior del mouse visible en la base. Luego, se separan las dos mitades de la carcasa: superior e inferior.
