@@ -9,6 +9,8 @@ El día de hoy vamos a ver en estas letras lo siguiente:
 2. profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
 3. El encargo 04, respectivo a esta unidad.
 
+## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
+
 ## 3. El encargo 04, respectivo a esta unidad.
 
 El dispositivo que voy a desarmar para hacer mi respectivo análisis, es un control remoto de tv antiguo, perteneciente a VTR.com
