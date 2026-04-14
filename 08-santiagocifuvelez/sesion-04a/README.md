@@ -29,12 +29,18 @@ El dispositivo que voy a desarmar para hacer mi respectivo análisis, es un cont
 
 1.	Así se ve en su estado natural, sin intervención alguna.  
 ![fto1](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/control.jpeg)
-2.	Ahora vamos a ver, su esqueleto.    
+
+2.	Ahora vamos a ver, su esqueleto.
+   
 ![fto2](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/control2.jpeg)
 
 ![fto3](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/control3.jpeg)
-4.	La parte que ahora nos interesa más, es la placa verde y la placa de acetato transparente, la cual estoy muy seguro que tiene alguna función por sus pedacitos de metal que existe en ella.  
-(Foto)  
+
+3.	La parte que ahora nos interesa más, es la placa verde y la placa de acetato transparente, la cual estoy muy seguro que tiene alguna función por sus pedacitos de metal que existe en ella.
+
+![fto4](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/control4.jpeg)
+
+
 5.	Ahora que ya seleccionamos esas dos partes del cuerpo del control remoto, vamos a ver los elementos que encontramos en la placa, quizá algunos conocidos, otros no, como:  
 
 Parte trasera/marrón:  
