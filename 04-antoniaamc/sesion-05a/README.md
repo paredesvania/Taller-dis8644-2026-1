@@ -5,24 +5,41 @@
 - **Push turn move (Kim Bjørn)**: libro sobre instrumentos musicales electrónicos.
 El libro celebra el arte y la ciencia detrás del **diseño de interfaz** en la música electrónica explorando el mundo funcional, artístico, filosófico y estético contenido en la misteriosa conexión entre intérprete y máquina.
 
+![bitacora-05-a](./imagenes/push-turn-move-kim-bjorn.jpg)  
+
 Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-move/)
 *uhhhh*
 
 ### Rererentes:
 
-## David Byrne
+## David Byrne  
+Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *Luaka Bop*. Famoso por usar un "traje grande" ("*Big Suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
 
+Discución de David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/)
+
+**[Luaka Bop](https://luaka-bop.myshopify.com/)**
+
+![bitacora-05-a](./imagenes/luaka-bop-logo-original-bitacora-antoniaamc.png) 
+
+Fuente: [Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop)
+
+
+Fuente: su [página de Wikipedia](https://es.wikipedia.org/wiki/David_Byrne#:~:text=Para%20el%20pol%C3%ADtico%2C%20v%C3%A9ase%20David%20Byrne%20(pol%C3%ADtico).,de%20colaborar%20con%20multitud%20de%20otros%20artistas.)
 
 Presentaciones en vivo lol:
 - [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s)  
 - [David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1)
 
-1. DB en su promoción del álbum *Who is the Sky?* y su gira mundial correspondiente de 2026. ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/))
-2. DB en 1987. Jack Mitchell/Getty Images. ([link](https://www.insidehook.com/style/understated-menswear-lessons-david-byrne))
-3. DB durante su gira mundial y espectáculo de Broadway "American Utopia" (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))
-4. DB durante su gira en 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))
-5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).
-6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).
+![bitacora-05-a](./imagenes/david-byrne-collach-bitacora-antoniaamc.jpg)
+
+**DB: David Byrne**
+
+1. DB en su promoción del álbum *Who is the Sky?* y su gira mundial correspondiente de 2026. ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/))  
+2. DB en 1987. Jack Mitchell/Getty Images. ([link](https://www.insidehook.com/style/understated-menswear-lessons-david-byrne))  
+3. DB durante su gira mundial y espectáculo de Broadway "American Utopia" (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))  
+4. DB durante su gira en 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))  
+5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).  
+6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
 
    
 - st vincent: diseño d guitarra
