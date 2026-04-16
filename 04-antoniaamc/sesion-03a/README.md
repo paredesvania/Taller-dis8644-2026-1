@@ -122,6 +122,12 @@ La oscilación ocurre en la salida del circuito, no en el LED.
 El LED solo indica la señal.  
 Alimentación: 9V  
 
+
+https://github.com/user-attachments/assets/e52c2c0e-a455-45af-9df3-c13fee9c05eb
+
+Fuente: [@bunibunirabit](https://www.instagram.com/p/DRxh0mKjJ2Y/) en instagram
+
+
   
 # Segundo bloque
 
