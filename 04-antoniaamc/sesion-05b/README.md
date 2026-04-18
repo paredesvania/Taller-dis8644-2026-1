@@ -1,7 +1,8 @@
 # sesion-05b
 10 de Abril 
 
-### Recomendación:
+### Recomendaciones:
+
 - **Push turn move (Kim Bjørn)**: libro sobre instrumentos musicales electrónicos.
 El libro celebra el arte y la ciencia detrás del **diseño de interfaz** en la música electrónica explorando el mundo funcional, artístico, filosófico y estético contenido en la misteriosa conexión entre intérprete y máquina.
 
@@ -9,6 +10,11 @@ El libro celebra el arte y la ciencia detrás del **diseño de interfaz** en la 
 
 Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-move/)
 *uhhhh*
+
+- **Wingdings:** tipografía críptica.
+
+♋︎●︎♑︎□︎ ♋︎⬧︎◻︎ ⬧︎♏︎ ❖︎♏︎  
+◻︎□︎❒︎ ❑︎◆︎◻︎ ♒︎♋︎⍓︎ ⧫︎♋︎■︎⧫︎□︎⬧︎ ♏︎⬧︎♍︎□︎❒︎◻︎♓︎□︎
 
 ### Rererentes:
 
@@ -46,17 +52,14 @@ Fuentes:
 - Su [página de Wikipedia](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
 - [Luthier Magazine](https://luthiermagazine.com/st-vincent-goldie-de-musicman-la-guitarra-de-diseno-que-encontre-en-directo/)
 
-![bitacora-05-b](./imagenes/st-vincent-collach-bitacora-05-b-antoniaamc.jpg.jpg)
+![bitacora-05-b](./imagenes/st-vincent-collach-bitacora-05-b-antoniaamc-jpg.jpg)
+
+**StV: St. Vincent**
 
 1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante))  
 3 y 5. StV entrevista Vogue (2014). ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent))  
 4. Guitarras StV.  
 6. Su firma, me gusta. ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)#/media/Archivo:AnnieAutograph.png)
-
-- **Wingdings:** tipografía críptica.
-
-♋︎●︎♑︎□︎ ♋︎⬧︎◻︎ ⬧︎♏︎ ❖︎♏︎  
-◻︎□︎❒︎ ❑︎◆︎◻︎ ♒︎♋︎⍓︎ ⧫︎♋︎■︎⧫︎□︎⬧︎ ♏︎⬧︎♍︎□︎❒︎◻︎♓︎□︎
 
 ---------------------------------------------
 
