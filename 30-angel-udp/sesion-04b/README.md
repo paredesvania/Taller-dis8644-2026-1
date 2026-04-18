@@ -1,5 +1,7 @@
 # sesion-04b
 
+07-04-2026
+
 ## Apuntes de clases
 
 Miramos VCV Rack y Modulargrid.net
