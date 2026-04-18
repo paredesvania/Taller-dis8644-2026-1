@@ -35,3 +35,9 @@ Cuando volví a armarlo, sucedió lo mismo pero ahora prendía solo un LED lo cu
 Volvió a pasar lo mismo!! y en este punto ya estaba muy confundido, por lo que en vez de hacer el circuito de nuevo empecé a cambiar los LEDs para ver si alguno estaba quemado, pero cada vez que intercambiaba los componentes se prendían y se apagaban distintos LEDs, por lo que decidí pedir ayuda a mis compañeros y me dijeron que pruebe conectando el 4017 al 555 y no de manera independiente, y cuando lo hice pasó ésto:
 
 ![4017 funcionando!!](./imagenes/4017-funcionando.gif)
+
+Mis compañeros tenían toda la razón!! no sabía que para poder comprobar si el circuito del 4017 estaba bueno tenía que utilizar el 555, sino que asumí que se podía probar de manera independiente como éste último.
+
+Luego de lograr esa victoria, seguí con la parte del chip 4093, la cual me confundió un poco en la parte del MIX pero solo por el hecho de que no encontraba una manera en la cual esa parte se viera ordenada, por lo que tuve que abandonar mis sueños y seguir con el trabajo. Cuando iba por el tercer potenciómetro, me di cuenta de que yo solo tenía dos, por lo que decidí hacerlo con dos potenciómetros y dos LDR, pero como un potenciómetro ya estaba en el circuito del 555, tuve que abandonar esa idea e intenté hacerlo con dos LDR y un potenciómetro. Cuando ya había "terminado" la parte del 4093, intenté hacer el circuito del 386 en la misma protoboard en donde estaba el 4093 ya que no tenía más, lo cual fue un poco difícil. Luego de creer tener todo terminado, llegó el momento de la verdad por lo que conecté la batería y no me sorprendí cuando se prendieron los LEDs por un segundo, el parlante hizo una vibración corta y todo dejó de funcionar. En ésta clase lamentablemente sufrí una derrota, pero me recuperaré eventualmente!! Aquí una foto de lo que quedó de mi intento.
+
+![q.e.p.d 4step](./imagenes/escasez-de-protoboards.jpg)
