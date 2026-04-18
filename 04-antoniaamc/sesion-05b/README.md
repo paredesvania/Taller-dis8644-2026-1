@@ -22,22 +22,22 @@ Descripción y fotos de [Stratgear](https://stratgear.com/es/produto/push-turn-m
 Músico detrás de Talking Heads, nació en Escocia (1952) pero emigró a EE. UU. cuando niño. Es reconocido por su excentricidad artística y por ser un artista polifacético, es: músico, cineasta, escritor y fundador del sello *[Luaka Bop](https://luaka-bop.myshopify.com/)*. Famoso por usar un "traje grande" ("*big suit*" para la película *Stop Making Sense* de 1984) para cambiar sus proporciones y autodescribirse con **tendencias autistas**🔥🔥 que considera un superpoder creativo.
 
 Fuente: 
-- Su [página de Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop)
+- Su [página de Wikipedia](https://en.wikipedia.org/wiki/Luaka_Bop).
 
-Discución sobre David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/)
+Discución sobre David Byne y Autismo en [Reddit](https://www.reddit.com/r/talkingheads/comments/17h8if5/how_certain_is_it_that_david_byrne_is_on_the/) (lol)
 
 Presentaciones en vivo:
-- [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s)  
-- [David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1)
+- [David Byrne en "Martes 13" de Canal 13 (1990)](https://www.youtube.com/watch?v=7JV6yHFamcg&t=10s).  
+- [David Byrne en vivo en Coachella 2026](https://www.youtube.com/watch?v=Kn1vsMJk260&list=RDKn1vsMJk260&start_radio=1).
 
 ![bitacora-05-b](./imagenes/david-byrne-collach-bitacora-antoniaamc.jpg)
 
 **DB: David Byrne**
 
-1. DB en su promoción del álbum *Who is the Sky?* y gira del 2026. ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/))  
-2. DB en 1987. Jack Mitchell/Getty Images. ([link](https://www.insidehook.com/style/understated-menswear-lessons-david-byrne))  
+1. DB en su promoción del álbum *Who is the Sky?* y gira del 2026 ([link](https://www.rockaxis.com/vanguardia/noticia/47788/-who-is-the-sky--david-byrne-presenta-su-nuevo-album-de-estudio/)).  
+2. DB en 1987. Jack Mitchell/Getty Images ([link](https://www.insidehook.com/style/understated-menswear-lessons-david-byrne)).  
 3. DB en una gira mundial (2018). ([link](https://revistaladosis.com/david-byrne-american-utopia-world-tour-cdmx))  
-4. DB en su gira del 2026, interpretando canciones de Talking Heads. ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago))  
+4. DB en su gira del 2026, interpretando canciones de Talking Heads ([link](https://chicago.suntimes.com/music/2025/10/29/review-david-byrne-who-is-the-sky-tour-auditorium-chicago)).  
 5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).  
 6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
 
@@ -46,20 +46,20 @@ Collab: En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado *Lo
 ## St. Vincent
 Cantautora y multiinstrumentista estadounidense, Anne Erin "Annie" Clark (Tulsa, Oklahoma; 28 de septiembre de 1982). En 2006, comenzó a hacerse conocer como St. Vincent (referencia una canción de Nick Cave, *There She Goes, My Beautiful World: "And Dylan Thomas died drunk in / St. Vincent's hospital"*. El nombre también es una referencia a su bisabuela.
 
-Diseñó su propia guitarra eléctrica en colaboración con Ernie Ball Music Man. Pensada para su forma de tocar. Ajustó el cuerpo (guitarra) para que fuera más ergonómico con su cuerpo (St. Vincent), modificó la distribución de controles y buscó un sonido que funcionara tanto limpio como con distorsión.
+Diseñó su propia guitarra eléctrica en colaboración con [Ernie Ball Music Man](https://www-music--man-com.translate.goog/instruments/families/guitars/st-vincent?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc). Pensada para su forma de tocar, ajustó el cuerpo (guitarra) para que fuera más ergonómico con su cuerpo (St. Vincent), modificó la distribución de controles y buscó un sonido que funcionara tanto limpio como con distorsión.
 
 Fuentes: 
-- Su [página de Wikipedia](https://es.wikipedia.org/wiki/St._Vincent_(cantante))
-- [Luthier Magazine](https://luthiermagazine.com/st-vincent-goldie-de-musicman-la-guitarra-de-diseno-que-encontre-en-directo/)
+- Su [página de Wikipedia](https://es.wikipedia.org/wiki/St._Vincent_(cantante)).
+- [Luthier Magazine](https://luthiermagazine.com/st-vincent-goldie-de-musicman-la-guitarra-de-diseno-que-encontre-en-directo/).
 
 ![bitacora-05-b](./imagenes/st-vincent-collach-bitacora-05-b-antoniaamc-jpg.jpg)
 
 **StV: St. Vincent**
 
 1 y 2. StV en 2018 u_u :D ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante))  
-3 y 5. StV entrevista Vogue (2014). ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent))  
+3 y 5. StV entrevista Vogue (2014) ([link](https://www.vogue.co.uk/article/five-minutes-with-st-vincent)).  
 4. Guitarras StV.  
-6. Su firma, me gusta. ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)#/media/Archivo:AnnieAutograph.png)
+6. Su firma, me gusta ([link](https://es.wikipedia.org/wiki/St._Vincent_(cantante)#/media/Archivo:AnnieAutograph.png)).
 
 ---------------------------------------------
 
