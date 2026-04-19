@@ -37,7 +37,13 @@ Hoy implementamos el chip 4017
 
 El mismo día de la clase, por la tarde tuve la oportunidad de poder ir al lanzamiento del álbum Umbral de cómo asesinar a felipes (CAF) y en este álbum participa Martín Benavides el cual toca el theremin y fue increíble la experiencia. Quedé impresionada con la agilidad que podía tocar y hacer lo mismo que en la grabación. También como mencioné más arriba David Byme estuvo en mis pensamientos porque CAF hacía algo parecido, los movimiento coreográficos, pero cada uno por su lado. 
 
-https://github.com/user-attachments/assets/a26344b4-c928-41f0-8559-4c27e9b17d4a
+
+https://github.com/user-attachments/assets/b8bd47d0-6359-42ea-8088-7a1d83153d39
+
+
+https://github.com/user-attachments/assets/7f12ef6c-0c6b-4c55-a8c6-adcbc0a480ba
+
+
 
 
 
