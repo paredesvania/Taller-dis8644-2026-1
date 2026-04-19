@@ -20,6 +20,9 @@ A partir de estas bellas frases, nos mostró ejemplos sobre esto como lo es gaud
 
 - Misaa
 
+Esta clase fue de solo hacer, nos entregaron el fé de erratas y manos a la obra. 
+
+
 ### imagenes de proceso
 
 ### post-clase
