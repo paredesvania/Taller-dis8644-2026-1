@@ -29,6 +29,9 @@ Además nos enseñaron cómo elegir fuentes de poder (justo nadie trajo bateria 
 
 Podemos elegir de 9V, de 12V (baterÍas de autos y paneles solares) y 5V (USB-A)
 
+
+![USB-A](imagenes/usb-a.jpg)
+
 Después de toda esta explicación, comenzamos a realizar la fe de erratas junto a mi grupo y no funcionó como debía, pero encendía luces, sonaba despacio, no como esperábamos, así que decidimos juntarnos el fin de semana para ver qué sucedía.
 
 ¡Le agradecemos a Vania, Nico y Cata por ayudarnos el viernes a buscar soluciones!
