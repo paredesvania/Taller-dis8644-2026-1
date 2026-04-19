@@ -6,4 +6,8 @@ martes 31 marzo
 
 ## encargo 04
 
-se nos pidió destripar un objeto electronico y evidenciar sus componentes, los que conocieramos y explicar detalladamente lo que vimos!!
+se nos pidió destripar un objeto electronico y evidenciar sus componentes, los que conocieramos y explicar detalladamente lo que vimos de una forma más poetica!!
+
+decidí destripar un control remoto que estaba tirado en mi casa (sin uso)
+
+![imagenes](./imagenes/control-abierto.jpeg)
