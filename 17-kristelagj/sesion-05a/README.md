@@ -7,7 +7,7 @@
 
 Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 
-**oscilador:** tomar un gesto para que sea suficientemente amigable
+**Oscilador:** tomar un gesto para que sea suficientemente amigable
 
 ### imagenes de proceso
 
