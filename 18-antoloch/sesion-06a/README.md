@@ -120,5 +120,6 @@ Sin histéresis:
 - CD4017 → secuencia digital
 
 ## ejercicio en clases 
-IMAGENNNNN
+![sesion06a](./imagenes/sesion06a.jpeg)
+![sesion06aa](./imagenes/sesion06aa.jpeg)
 
