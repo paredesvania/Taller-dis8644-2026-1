@@ -22,3 +22,7 @@ Ritmo: un oscilador (chip 4093) envía un pulso constante a la patita clock
 Activación: el 4017 activa una salida a la vez
 
 Control: cada salida se conecta a un potenciómetro que define una nota o volumen diferente
+
+### Esquemático para ambos chips 
+
+![esquemático](imagenes/esquematico4017.png)
