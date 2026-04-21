@@ -6,6 +6,8 @@
 - Paula Fuentes (paulafuentesm)
 - Kristel Ladrón de Guevara (kristelagj)
 
+![precarias](imagenes/titulo.gif)
+
 ## descripción del sintetizador realizado
 
 Precarias es un s
