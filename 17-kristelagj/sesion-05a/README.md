@@ -30,6 +30,28 @@ Salida de VCO
 
 RITMO Y FRECUENCIA ES LO MISMO
 
+## Compuerta AND (Y)
+| A | B | Salida |
+|---|---|--------|
+| 0 | 0 |   0    |
+| 0 | 1 |   0    |
+| 1 | 0 |   0    |
+| 1 | 1 |   1    |
+
+## Compuerta OR (O)
+| A | B | Salida |
+|---|---|--------|
+| 0 | 0 |   0    |
+| 0 | 1 |   1    |
+| 1 | 0 |   1    |
+| 1 | 1 |   1    |
+
+## Compuerta NOT (NO)
+| A | Salida |
+|---|--------|
+| 0 |   1    |
+| 1 |   0    |
+
 ### imagenes de proceso
 
 ### post-clase
