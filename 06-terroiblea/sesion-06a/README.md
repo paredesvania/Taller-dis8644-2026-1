@@ -31,7 +31,7 @@ Explicado de forma simple y con ejemplo:
 Imagina que estás en un tobogán:
 
 - Para que la luz se prenda, tienes que llegar hasta arriba del todo.
-- Una vez que se prende, aunque bajes un escalón, la luz sigue prendida. No se apaga por cualquier cosita.
+- Una vez que se prende, aunque bajes un escalón, la luz sigue prendida. No se apaga por cualquier cosa.
 - Solo se va a apagar cuando llegues hasta abajo del todo, al suelo.
 
 ### Histéresis 

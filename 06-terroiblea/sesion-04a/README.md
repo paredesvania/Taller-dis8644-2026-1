@@ -101,7 +101,7 @@ Ahora, a diferencia de la primera vez que lo había abierto, sí pude identifica
 
 Hay muchos chips, pero a la mayoría no les pude leer el nombre. Eso sí, me sorprendió la cantidad de tamaños distintos que hay: hay unos con muchísimos pines (hay uno que tiene el tamaño del 555 pero tiene 20 patitas ). Los otros elementos supongo que deben ser algo así como el lector de discos y cosas así.
 
-> Agradecimientos a mi inspectora felina (alias mi “choapina”), que ayudó en la verificación de calidad de los componentes y a que no hiciera nada para echar a perder el reproductor. 
+> Agradecimientos a mi inspectora felina (alias mi “choapina”), que ayudó en la verificación de calidad de los componentes y a que no hiciera nada para echar a perder el reproductor dvd. 
 
 ### Funcionamiento imaginario
 

@@ -2,7 +2,7 @@
 
 Viernes 10 de Abril, 2026. 
 
-Nota del día: me encantó lo que hicimos esta clase !! (soyfan). 
+Nota del día: me encantó lo que hicimos esta clase !! 
 
 ## Referentes (y otras cosas)
 
