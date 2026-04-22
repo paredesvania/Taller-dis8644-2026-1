@@ -1,6 +1,8 @@
 # sesion-06a
 ## Apuntes en clase ##
 
+![apunte](./imagenes/apunte.jpg/)
+
 ### Schmitt Trigger ###
 
 El Schmitt Trigger es un tipo de comparador electrónico que convierte una señal de entrada inestable o “ruidosa” en una señal digital limpia.
