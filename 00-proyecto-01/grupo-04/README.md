@@ -1,4 +1,4 @@
-# grupo-01
+# grupo-04
 
 ## integrantes
 + Antonia Loch
@@ -30,7 +30,7 @@ incluir texto, imágenes sobre modificaciones realizadas a los circuitos origina
 incluir modificaciones en posición, chips, parámetros, valores, etc.
 
 ## carcasas de cartón
-
+![imagenes](./imagenes/modelo-tincado.jpg)
 textos, imágenes
 
 incluir origen de materiales, decisiones de posiciones de los componentes, decisiones estéticas, pruebas, resultados obtenidos.
