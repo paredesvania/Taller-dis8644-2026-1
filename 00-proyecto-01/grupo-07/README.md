@@ -39,6 +39,7 @@ Código de colores propuesto para facilitar la organización y comprensión del 
 + STEP 4: Morado
 
 **Pruebas realizadas**
+
 En el primer intento de realizar el circuito, las dos primeras etapas funcionaron correctamente. Sin embargo, surgieron problemas en las conexiones entre el chip 4093 y los potenciómetros, ya que solo se generaba una señal de onda cuadrada de frecuencia constante y no coincidía con el movimiento de las luces. Además, al ajustar los potenciómetros no se producía ningún cambio en la frecuencia del sonido, lo que indicaba un funcionamiento incorrecto del circuito. Durante el proceso, el chip 4093 se dañó. 
 
 En un segundo intento, se volvieron a realizar las dos últimas etapas del circuito. Sin embargo, el comportamiento fue similar al de la prueba anterior. Con el tiempo, se observó que el circuito solo generaba señal de audio al hacer contacto con algún cable o componente, lo que indicaba un funcionamiento inestable en las conexiones. 
