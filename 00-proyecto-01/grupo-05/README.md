@@ -125,15 +125,13 @@ incluir modificaciones en posición, chips, parámetros, valores, etc.
 La carcasa del sintetizador se desarrolló utilizando **cartón corrugado reciclado**, principalmente por su **disponibilidad, bajo costo y facilidad para hacer pruebas y modificaciones rápidas**. Esto permitió **iterar el diseño** sin depender de procesos más complejos. Al mismo tiempo, el material se mantiene visible como parte del resultado, sin ocultar su condición de **prototipo**.
 
 ### Estructura  
-Consiste en una **caja cerrada con una apertura frontal**, que funciona como punto de visualización. Esta permite ver parcialmente el interior —específicamente los **LEDs**— mientras el resto del circuito se mantiene contenido, ayudando a **ordenar visualmente el sistema** y evitar la sobreexposición de componentes.
+Consiste en una **caja cerrada con una apertura frontal**, que funciona como punto de visualización. Esta permite ver parcialmente el interior (específicamente los **LEDs**) mientras el resto del circuito se mantiene contenido, ayudando a **ordenar visualmente el sistema** y evitar la sobreexposición de componentes.
 
 ### Distribución  
 Responde a una **lógica de uso**: los **controles** se ubicaron en la parte superior para facilitar la manipulación directa, mientras que los **LEDs** se posicionaron en la cara frontal, alineados, permitiendo una **lectura clara de la secuencia o estado del sistema**. El circuito se organizó internamente para no interferir entre **interacción y visualización**, manteniendo además acceso para ajustes.
 
 ### Proceso  
-El proceso de diseño comenzó revisando *referentes y sintetizadores existentes, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D inicial, considerando la posibilidad de fabricación mediante **corte láser, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre lámina, la cual luego se transfirió a **cartón corrugado* para su corte y armado manual.
-
-Se optó por una estética *simple y directa, sin buscar un acabado industrial*.
+El proceso de diseño comenzó revisando *referentes y sintetizadores existentes, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D inicial, considerando la posibilidad de fabricación mediante **corte láser, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre lámina, la cual luego se transfirió a **cartón corrugado** para su corte y armado manual.
 
 La mayoría de las pruebas se realizaron entre el *modelado 3D* y la *medición directa de los componentes* en la protoboard, utilizando como referencia su forma y dimensiones dentro de la interfaz. Esto permitió ajustar posiciones, proporciones y relaciones entre los elementos antes del armado final.
 
