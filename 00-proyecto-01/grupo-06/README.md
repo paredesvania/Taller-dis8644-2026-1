@@ -42,7 +42,9 @@ El sistema se organiza en cuatro etapas, cada una realizada por un circuito inte
 
 ¿Pero qué distingue a Precarias de otros sintetizadores? Precarias incorpora una diversidad de condensadores, los cuales influyen directamente en la variación de las frecuencias y sonido del sintetizador. Además, el dispositivo cuenta con dos interfaces interactivas múltiple: por un lado, un fotoresistor como control de velocidad, y por otro, potenciómetros, que permiten un control manual más preciso sobre distintos parámetros del sistema.
 
-foto y video 
+![sintetizador](videos/listo_4.mp4)
+![sintetizador](videos/listo.mp4)
+
 
 ## proceso y resultados del reloj y secuenciador
 
