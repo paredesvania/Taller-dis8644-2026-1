@@ -8,23 +8,35 @@
 
 ## descripción del sintetizador realizado
 
-Construimos un sintetizador a partir de 4 secciones que describiremos como: **Clock Generator** construido a partir de un chip 555 (el C1 "condensador" y RV1 "potenciómetro" controlan la frecuencia del clock) además de conectar el capacitor cerámico cerca del chip para brindarle mayor estabilidad a esta parte del circuito en concreto y posteriormente se le agregará también uno a cada chip del circuito con el fin de que tengan un circuito estable. La siguiente parte es el **Secuenciador** que se hace con el chip 4017, el cual tiene un led por cada conexión STEP "son 4" y a este se le conecta el Clock para poder comprobar que los electrones están fluyendo correctamente por el circuito y esto nos lo dicen los leds encendiéndose en secuencia uno después de otro. Continuamos con el **Sintetizador** tratándose esta vez del chip 4093 en donde a las patas 1, 5, 8 y 12 se les conectan respectivamente los STEPS 1, 2, 3 y 4 y desde las patas 3, 4, 10 y 11 pasando por las resistencias que convergen en un mismo punto se conecta el cable que une el mix y además se le conecta directamente del chip de la pata 7 a GND (Tierra) y la 14 a VCC (Positivo) "C y RV de cada compuerta controlan frecuencia de oscilador Schmit Trigger. POT Puede ser reemplazado por LDR, resistencia experimental, etc". Y por último para la salida el MIX que venía del sintetizador se conecta al potenciómetro que va conectado al chip LM386 de **Salida** y este potenciómetro es para el volumen por lo que en este mismo chip al tener ya todo conectado finalizamos colocando el parlante (lo que le da vida al sonido si todo está funcionando correctamente)
+Construimos un sintetizador a partir de 4 secciones que describiremos como: **Clock Generator** construido a partir de un chip 555 (el C1 "condensador" y RV1 "potenciómetro" controlan la frecuencia del clock) además de conectar el capacitor cerámico cerca del chip para brindarle mayor estabilidad a esta parte del circuito en concreto y posteriormente se le agregará también uno a cada chip del circuito con el fin de que tengan un circuito estable. La siguiente parte es el **Secuenciador** que se hace con el chip 4017, el cual tiene un led por cada conexión STEP "son 4" y a este se le conecta el Clock para poder comprobar que los electrones están fluyendo correctamente por el circuito y esto nos lo dicen los leds encendiéndose en secuencia uno después de otro. Continuamos con el **Sintetizador** tratándose esta vez del chip 4093 en donde a las patas 1, 5, 8 y 12 se les conectan respectivamente los STEPS 1, 2, 3 y 4 y desde las patas 3, 4, 10 y 11 pasando por las resistencias que convergen en un mismo punto se conecta el cable que une el mix y además se le conecta directamente del chip de la pata 7 a GND (Tierra) y la 14 a VCC (Positivo) "C y RV de cada compuerta controlan frecuencia de oscilador Schmit Trigger. POT Puede ser reemplazado por LDR, resistencia experimental, etc". Y por último para la salida el MIX que venía del sintetizador se conecta al potenciómetro que va conectado al chip LM386 de **Salida** y este potenciómetro es para el volumen por lo que en este mismo chip al tener ya todo conectado finalizamos colocando el parlante (lo que le da vida al sonido si todo está funcionando correctamente).
 
-imagen del sintetizador en su contexto
+En nuestro caso utilizamos los condensadores predeterminados para terminar el circuito, los cuales funcionaron en el sintetizador sonando de manera aguda y vibrante en cada uno de sus 4 tiempos; de esto se encargan principalmente los chips y los potenciómetros, que les daban un tono distinto dependiendo de lo drástico que fuera cambiar la posición de la perilla. Por ejemplo, el primer potenciómetro marca la velocidad en la que cambia de un sonido a otro o de una luz a otra (la luz y el sonido actuaban a la misma vez dependiendo del Step en el que se encuentre); esto marca la velocidad de cambio. En la parte del sintetizador se encuentran las conexiones de los 4 potenciadores que actuaban directamente con cada uno de los 4 tiempos, pero de manera individual y solo le cambia el sonido al Step que esté asociado, produciendo que cambie su tonalidad al pasar por ese punto del circuito, y el volumen se puede cambiar con el potenciómetro del final del circuito para comodidad auditiva.
 
-audio o video del sintetizador en acción
+El sintetizador va a ser dispuesto en una caja de cartón producida para mayor comodidad del usuario que interactúe esto por medio de los cables (Jumpers) que van de la protoboard hasta los extremos de salida de la caja; puede ser soldando o reajustando de una manera estética, y así es como finalmente, gracias a todos los componentes y las explicaciones de los profesores durante clase, más el esquema y varios intentos fallidos, tenemos un sintetizador realizado con cada conexión precisa, ya que es importante tener conectada cada cosa en su lugar para que funcione correctamente, teniendo en cuenta que los chips pueden ser inestables y que las baterías son de 9 voltios recargables.
+
+Acá, imagen del sintetizador en su primer contexto funcionando:
+
+![resultado](./imagenes/resultado2.jpg)
+
+![video primera vez que funcionó](./videos/videofuncionando.gif)
 
 ## proceso y resultados del reloj y secuenciador
 
-con chips 555 y 4017
+Como describimos anteriormente, con los chips 555 y 4017 se nos hizo muy sencillo que funcionaran, más que nada por la práctica que teníamos con el 555. Conectamos de manera sencilla todos los LEDs, resistencias y condensadores, permitiendo cambiar la velocidad de cambio de luces con el potenciómetro, y lo único que cambia es que, en un principio es que desarrollamos cada circuito por separado, conectando así las protoboard en positivo y negativo por medio de Jumpers para transmitirles la señal del circuito.
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+Lo principal del chip 555 es que las patas 6, 2, 1, 5 y 3 se conectan a GND (tierra), y las 7, 8 y 4 a VCC, que sería el positivo, con el detalle de que convergen en las patas 7, 6 y 2 en el potenciómetro, lo que permite controlar, en el chip 4017, los LEDs conectados en las patas 3, 2, 4 y 7 (los que están asociados a los steps en el esquema).
+
+![chips 555 y 4017](./imagenes/555y4017.jpg)
 
 ## proceso y resultados de osciladores y amplificador
 
-con chips 4093 y 386
+Con los chips 4093 y 386 sí fue un poco más complejo saber si funcionaban, ya que tuvimos varios chips que terminaron dañándose por hacer mal las conexiones o porque venían con fallas o con la funcionalidad limitada de fábrica, y a partir de que sonara o no, deducíamos si estaba mejor o peor conectado. También hicimos estas dos partes del circuito por separado, uniendo los polos positivo y negativo entre sí para mandar la señal de los electrones y que sonara.
 
-incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
+El detalle de estos, en específico el 4093, era que en cada step de este (sintetizador) había que tener en cuenta que sonara a la vez que se prendía una luz en el secuenciador; de esto nos dábamos cuenta de que funcionaba, pero principalmente conectamos todo para poner a prueba definitivamente estos dos.
+
+Las conexiones clave para estos son los “Mix” en el 4093, que salen de la conexión 3 de los potenciómetros. Se utilizan las 14 patas, la 7 sola yendo a GND y la 14 a VCC.
+
+![chips 4093 y 386](./imagenes/4093y386.jpg)
 
 ## modificaciones realizadas a los circuitos originales
 
@@ -53,6 +65,8 @@ video / audio
 ## aprendizajes y errores
 
 las mejores lecciones aprendidas y los errores más comunes y cómo los resolvieron
+
+Una de las mejores lecciones que aprendimos es que no todo en el mundo es perfecto ni funciona como nosotros queremos que lo haga, al igual que pasa con los chips al venir defectuosos de fábrica y que no funcionen a la primera vez o de fábrica. Los errores más comunes que nos pasaban eran tener la batería descargada o que los cables estuvieran movidos una celda más de donde deberían estar, o confusiones conectando chips erróneos, y cables sueltos que generaban conexiones inexistentes, o las mismas resistencias, que algunas tenían colores parecidos, pero todos los resolvimos hablando con compañeros y compañeras que ya habían resuelto nuestras dudas o ya sabían cómo hacerlo, con compañeros que estaban en la misma parte del circuito que nosotros, tomando todos el punto de vista e intentando repasar el esquema paso a paso, rearmando desde cero las partes que no funcionaban y cambiando las partes que creíamos que podrían haberse dañado.
 
 ## conclusiones
 

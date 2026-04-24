@@ -14,22 +14,22 @@ A diferencia de un comparador común que tiene un solo umbral, el Schmitt Trigge
 + Conversión de ondas: Transforma ondas senoidales o triangulares en ondas cuadradas perfectas.
 + Osciladores: Es la base de muchos osciladores simples (como los que se usan en síntesis de sonido) cuando se combina con una resistencia y un condensador.Limpieza de datos: Se usa para recuperar señales digitales que se han degradado o llenado de ruido durante su transmisión.
 
-imagen apunte
+![apuntes](./imagenes/apuntes.jpg)
 
 ### Chips
 + **4093** Contiene 4 puertas NAND, pero con una característica especial: cada entrada tiene un Schmitt Trigger.
    + solo oscila si pin 2=V++
      
-imagen chip
+![Chip](./imagenes/4093.png)
 
 + **4017** el secuenciador de pasos. Es el chip que permite que las luces (o los sonidos) se activen uno por uno en orden.
   
-imagen chip
+![Chip](./imagenes/4017.png)
 
 ### hacemos ruido
 En la clase missa nos enseño la coneccion entre el chip 4017 (secuenciador) y el 4093 (sintetizador). que sirve para generar ritmos o melodias sencillas.
 
-imagen pizarra
+![Imagen pizarra](./imagenes/ruido.jpg)
 
 ### En clases 
 Realizamos el circuito de todos los chips el 555→4017→4093→385
@@ -38,7 +38,7 @@ Realizamos el circuito de todos los chips el 555→4017→4093→385
 + 4093 sintetizador
 + 385 salida
 
-imagen circuito
+![Circuito](./imagenes/circuito.png)
 
 ### Bitácora
 + Con mi grupo logramos armar todo el circuito, pero al principio nos llevamos una decepción: no sonaba nada. La primera parte, que es el "reloj" (lo que marca el ritmo) y el secuenciador (el chip 4017 que hace que las luces avancen), funcionaba perfecto. Los LEDs prendían uno tras otro en orden, pero al conectar los pasos para que generaran audio, el parlante seguía mudo.

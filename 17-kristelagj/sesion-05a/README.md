@@ -64,8 +64,18 @@ RITMO Y FRECUENCIA ES LO MISMO
 
 ### imágenes de proceso
 
+![proceso](imagenes/proceso-1.jpeg)
+![proceso](imagenes/proceso-2.jpeg)
+
+Aquí comenzamos a conocer las compuertas NANDS, primero intentamos con una y después nos aventuramos a 2. Podemos observar que el led va al ritmo de una señal entregada y el parlante da un sonido regulado por el potenciómetro. El chip 4093 hace ondas cuadradas lo cual hace que el LED comience a oscilar. Cuando agregamos otra compuerta NAND, registramos que ahora existen 2 sonidos dependiendo de los condensadores que tengamos. También es importante saber que los led nos ayudaran a saber si esta funcionando correctamente.
+
 ### post-clase
 
 Quiero ser sincera ante lo que es el taller y me he sentido muy desanimada. Al principio estaba muy entusiasmada, conversé con los profes de cómo me sentía, pero siento que me estoy quedando muy atrás. Lo cual no me motiva ni a subir la bitácora. 
 
 Si me preguntaran puedo rescatar algo, que he podido entender un poco, por ejemplo, lo que hace mi padre, entender algo de audio, diferenciar un condensador polarizado y el que no, pero no puedo explicarte algo de como funciona o que hace realmente. Llego a clases sólo escuchando y no entendiendo nada a pesar de siempre estar preguntando. 
+
+-------
+
+Al subir fotos me pasaba mucho que salia .jpeg y otros .jpg, son el mismo formato de archivo, solo que cambia la extensión de letras (3 y 4) debido que las versiones antiguas de WINDOWS solo permite hasta 3 letras, en cambio ahora se pueden colocar más
+

@@ -30,9 +30,9 @@ circuito a armar:
 
 primera parte 
 
-![circuitoparte1](./imagenes/circuito0704_parte1.jpg)
+![circuitoparte1](./imagenes/circuito0704-parte1.jpg)
 
 funcionando con parlante
 
-![circuitoparte2](./imagenes/circuito0704_parte2.gif)
+![circuitoparte2](./imagenes/circuito0704-parte2.gif)
 
