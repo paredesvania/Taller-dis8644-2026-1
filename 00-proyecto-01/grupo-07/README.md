@@ -14,7 +14,7 @@ El circuito utiliza un temporizador NE555 configurado como oscilador para genera
 
 Finalmente, la señal generada es enviada a un amplificador de audio basado en el integrado LM386, que permite aumentar la potencia de la señal para que pueda ser reproducida por el parlante. En conjunto, el circuito permite generar secuencias de sonidos rítmicos y melódicos mediante la coordinación entre la señal de reloj y los osciladores.
 
-![sintetizador](./imagenes/img-sintetizador.jpeg)
+![sintetizador](./imagenes/sonido.jpg)
 
 
 https://github.com/user-attachments/assets/905e3b0a-8652-41ce-81cf-a35a47ac748d
@@ -79,6 +79,10 @@ Se definió el sonido y los capacitores a utilizar:
 + STEP 3: 100 nF
 + STEP 4: 1 µF
 
+![modificaciones](./imagenes/modificacion.jpeg)
+![modificaciones](./imagenes/modificacionn.jpeg)
+
+
 ## carcasas de cartón
 
 La construcción se plantea como un sistema modular, formando la figura de un “robot” llamado Rodolfo, en el cual se organiza el circuito de una forma fácil de comprender y manipular.
@@ -91,15 +95,18 @@ Los brazos, ubicados a ambos lados, contienen los amplificadores. Estos módulos
 
 ## interconexión entre módulos
 
-textos, imágenes, diagramas de interconexión
+Se conectaron tres protoboards entre sí. En la primera está el generador de clock junto con el secuenciador, en la segunda se encuentra el sintetizador y en la tercera están los amplificadores. Todos estos módulos se acomodaron dentro de carcasas de cartón, siguiendo la distribución que se tenía pensada.
+
+![esquema](./imagenes/esquematico.png)
 
 ## resultados finales
 
-texto
+El resultado final no fue el esperado, ya que los potenciómetros se dañaron debido al exceso de calor durante la soldadura, lo que terminó afectando la melodía que se había planificado originalmente. A pesar de este inconveniente, el circuito en sí funciona correctamente, lo que permitió identificar que el problema estaba específicamente en los potenciómetros.
 
-imagen
+Por otro lado, el montaje físico resultó exitoso, la distribución de los módulos dentro de las carcasas de cartón se realizó tal como se había previsto y el sistema opera de manera correcta.
 
-video / audio
+![rodolfo](./imagenes/rodolfo.jpeg)
+
 
 ## aprendizajes y errores
 
