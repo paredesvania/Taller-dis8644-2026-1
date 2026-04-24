@@ -120,7 +120,7 @@ incluir texto, imágenes sobre modificaciones realizadas a los circuitos origina
 
 incluir modificaciones en posición, chips, parámetros, valores, etc.
 
-## Carcasas de cartón
+## carcasas de cartón
 
 La carcasa del sintetizador se desarrolló utilizando **cartón corrugado reciclado**, principalmente por su **disponibilidad, bajo costo y facilidad para hacer pruebas y modificaciones rápidas**. Esto permitió **iterar el diseño** sin depender de procesos más complejos. Al mismo tiempo, el material se mantiene visible como parte del resultado, sin ocultar su condición de **prototipo**.
 
@@ -134,6 +134,8 @@ Responde a una **lógica de uso**: los **controles** se ubicaron en la parte sup
 
 ### Proceso  
 El proceso de diseño comenzó revisando *referentes y sintetizadores existentes*, para luego definir qué queríamos mostrar y cómo queríamos que funcionara la interfaz. A partir de esto, se realizó un **modelado 3D** inicial, considerando la posibilidad de fabricación mediante **corte láser**, lo que finalmente no se pudo concretar. En su lugar, se utilizó el modelo como base para generar una **plantilla calcada sobre láminas (A1)**, que luego se transfirió a **cartón corrugado** para corte y armado manual.
+
+https://github.com/user-attachments/assets/30f01b61-87bd-45d3-be96-2d65fa92969e
 
 ![proyecto-01-grupo-05](imagenes/plantilla-a1-interfaz-carton-proyecto-01-grupo-05.jpg)
 
