@@ -19,7 +19,8 @@ para adaptar los componentes a su carcasa, decidimos alargar los cables dupont u
 + adjuntamos video de el tincado funcionando a la perfección: <https://youtu.be/hrRX-CuZbwI>
 + adjuntamos video de el interior de el tincado: <https://youtube.com/shorts/Cf6fAJbL6Gk>
 
-### codigo, cableado y composición 
+### código, cableado y composición 
+establecimos un codigo de colores específico, donde cada color determina una cierta función permitiéndonos seguir un orden en el circuito.
 
 | colores | funcionalidad |
 | :--- | :--- |
@@ -33,6 +34,24 @@ para adaptar los componentes a su carcasa, decidimos alargar los cables dupont u
 | azul 💙 | LED, potenciómetro (B4) |
 | morado 💜 | potenciómetro (B2) |
 
+### composición 
+imagen de esquematico que esta haciendo la anto wuajajja (borrar)
+
+| componente  | funcionalidad | cantidad |
+| ------------- | ------------- | ------------- |
+| capacitor 1µF | almacenan energía electrostática en un campo eléctrico y la distribuyen al circuito según sea necesario  | 4 |
+| capacitor 10µF  | "  | 1 |
+| capacitor 100µF | " | 2 |
+| capacitor 100nF  | "  | 3 |
+| resistencia 1k  | regula el flujo de la corriente | 1 |
+| resistencia 10k  | "  | 2 |
+| resistencia 220  | " | 0 |
+| NE555 | clock generator | 1 |
+| CD4017 | secuenciador | 1 |
+| CD4093 | sintetizador | 1 |
+| LM386 | estabilizador | 1 |
+| LED | mide la velocidad de las oscilaciones de el chip 555 | 1 | 
+| potenciometro | interfaz de control para la manipulacion de la constante de tiempo en los circuitos osciladores| 6 |
 
 ## proceso y resultados del reloj y secuenciador
 
