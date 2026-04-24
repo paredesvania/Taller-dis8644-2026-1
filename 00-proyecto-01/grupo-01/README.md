@@ -34,7 +34,7 @@ En este proyecto utilizamos diferentes componentes cada uno para funciones espec
 - Resistencias: Se encargan de limitar el flujo de corriente eléctrica y establecer niveles de voltaje específicos dentro del circuito, las resistencias son fundamentales para proteger otros componentes más sensibles como los leds.
 - Diodos: Actúan como ¨válvulas¨ que permiten el paso de la corriente en una sola dirección. Se utilizan generalmente para proteger el circuito contra inversiones de polaridad o para rectificar señales.
 - Condensadores: Se encargan de almacenar energia temporalmente. 
-- Potenciometros: Son resistencias variables que permiten ajustar manualmente el nivel de resistencia. Se utilizan para controlar diferentes parámetros como el volumen del audio o la intensidad de la señal.
+- Potenciómetros: Son resistencias variables que permiten ajustar manualmente el nivel de resistencia. Se utilizan para controlar diferentes parámetros como el volumen del audio o la intensidad de la señal.
 - parlante: Es el ¨traductor¨ de salida que convierte las señales eléctricas amplificadas en ondas sonoras
 
 Ademas diferentes chips, siendo estos:
@@ -46,7 +46,20 @@ Ademas diferentes chips, siendo estos:
 
 - Las compuertas NAND son puertas lógicas que entrega una señal 0 solo cuando todas sus entradas están en 1, Si alguna entrada es 0, la salida será de 1. por otro lado el Schmitt Trigger es un diseño de circuito interno que le da "decisión" a la compuerta. En vez de tener un solo punto de cambio, tiene dos umbrales de voltaje distintos.
 
-- La histéresis es la diferencia entre los dos umbrales del Schmitt Trigger, genra una sona de memoria de los V que se necesitan para apagar y encender un circuito, entregando una señal limpia a posibles interferencias 
+- La histéresis es la diferencia entre los dos umbrales del Schmitt Trigger, genra una sona de memoria de los V que se necesitan para apagar y encender un circuito, entregando una señal limpia a posibles interferencias
+
+   ### ¿Que hacen especifcamente en nuestro sintetizador?
+
+  
+- CD4093BE  Este chip es nuectro oscilador que fabrica el sonido utilizando ondas cuadradas, es el que genera el "ruido" base del sintetizador que después mediante los potenciómetros modificando.
+- LM386: Como el sonido que sale del primer chip es muy débil, usamos este chip amplificador para darle potencia. Su función es amplificar la señal lo suficiente para que el parlante la pueda reproducir.
+- Resistencias: Las usamos para limitar el paso de la corriente y proteger los componentes, a su vez trabajan junto con los condensadores para definir los rangos de frecuencia del sonido.
+- Potenciómetros: Son las perillas que nos permiten interactuar con el circuito. Generan la instancia de interacción usuario-circuito para generar los diferentes sonidos del sintetizador.
+- Diodos: Los usamos para que la corriente fluya en un solo sentido y para generar el efecto de "clipping" o recorte. Esto le da una distorsión armónica al sonido para que no sea una onda tan limpia.
+- Condensadores: Funcionan para filtrar el ruido y para acoplar la señal de audio entre una etapa y otra, bloqueando la corriente continua que podría quemar el parlante.
+- Parlante: Es el ¨traductor¨ de salida este toma la señal eléctrica que ya fue creada y amplificada para convertirla en ondas sonoras que podemos escuchar.
+- Batería de 9V: Es la fuente de energía de todo el sistema.
+
 ## Proceso y resultados del reloj y secuenciador
 
 con chips 555 y 4017
