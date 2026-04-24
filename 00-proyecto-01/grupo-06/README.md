@@ -94,13 +94,13 @@ Conectamos el pin 14 al positivo (VCC) y 7 al negativo (GND). Se instala un cond
 #### 2. Paso 2: Configuración de Osciladores (Steps) 
 Conectamos de las cuatro compuertas NAND del 4093 que se configura para recibir un pulso del secuenciador y finalizando con cada STEP doldandolo en el su potenciometro correspondiente para así poder moverse sin inconvenientes en la carcasa:
 
-+ **STEP 1:** La señal proveniente del pin 3 del 4017 se ingresa a la pin 1. El pin 2 se vincula al potenciómetro RV2 (100k) y el condensador C5 (10uF). La salida resultante (pin 3) se dirige al nodo común MIX tras pasar por una resistencia (1k). Logrando un ruido más grave y con poco volumen por el tamaño del condensador.
++ **STEP 1:** la señal proveniente del pin 3 del 4017 que se ingresa a la pin 1. El pin 2 se vincula al potenciómetro RV2 (100k) y condensador de 0.47uF. La salida resultante (pin 3) se dirige al nodo común MIX tras pasar por una resistencia (1k). Logrando una alta frecuncia.
 .
-+ **STEP 2:** La salida del pin 2 del 4017 se conecta a al pin 5. El pin 6 se asocia a su red RC (potenciómetro RV3 de 100k y condensador de 0.47uF). La señal sale por el pin 4, atraviesa la resistencia (1k) y se une al nodo MIX. Logrando un ruido chillón y con un mayor volumen por el tamaño del condensador.
++ **STEP 2:** La salida del pin 2 del 4017 se conecta a al pin 5. El pin 6 se asocia a su red RC (potenciómetro RV3 de 100k y condensador de 0.47uF). La señal sale por el pin 4, atraviesa la resistencia (1k) y se une al nodo MIX. Logrando una alta frecuncia.
   
-+ **STEP 3:** El pulso del pin 4 del 4017 se lleva a el pin 8. El pin 9 se conecta al circuito de control de tono (potenciómetro RV4 y condensador C3). La salida se obtiene en el pin 10, pasando por la resistencia R10 (1k) antes de integrarse al punto de mezcla. Logrando un ruido igual de chillón y con igual volumen que el STEP 2 por el tamaño del condensador.
++ **STEP 3:** El pulso del pin 4 del 4017 se lleva a el pin 8. El pin 9 se conecta al circuito de control de tono (potenciómetro RV4 y condensador de 0.47uF). La salida se obtiene en el pin 10, pasando por la resistencia R10 (1k) antes de integrarse al punto de mezcla. Logrando una alta frecuncia.
   
-+ **STEP 4:** Finalmente, la señal del pin 7 del 4017 se ingresa al pin 13. el pin 12 se conecta a la última red RC (potenciómetro RV5 y condensador C4). La salida por el pin 11 se conduce al nodo MIX a través de la resistencia R11 (1k). Logrando un ruido igual de chillón y con igual volumen que el STEP 2 por el tamaño del condensador.
++ **STEP 4:** Finalmente, la señal del pin 7 del 4017 se ingresa al pin 13. el pin 12 se conecta a la última red RC (potenciómetro RV5 y condensador de 0.47uF). La salida por el pin 11 se conduce al nodo MIX a través de la resistencia R11 (1k). Logrando una alta frecuncia.
   
 #### 3. Paso 3: Nodo de Mezcla (MIX) 
 Al finalizar este proceso, las cuatro señales rítmicas y tonales convergen en el punto MIX. Este nodo unifica las frecuencias generadas y permite crear diferentes frecuencias de  vibraciones por cómo se mueven los potenciadores conectados a cada STEP, permitiendo que la suma de todos los osciladores sea enviada a la etapa final de amplificación.
